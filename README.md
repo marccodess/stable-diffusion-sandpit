@@ -23,4 +23,4 @@ The [OpenJourney](https://huggingface.co/prompthero/openjourney) model produced 
 
 The [Stable Diffusion v1.5](https://huggingface.co/runwayml/stable-diffusion-v1-5?text=a+photo+of+an+astronaut+riding+a+horse+on+mars) model produced the following images:
 
-![](images/stable-diffusion-output.png "StableDiffusion Output")
+![](images/stable_diffusion_output.png "StableDiffusion Output")
